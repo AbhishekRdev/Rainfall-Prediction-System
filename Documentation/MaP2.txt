@@ -1,0 +1,15 @@
+Submission:
+1) Research Article -- done 
+2) Synopsis -- done
+3) Project Report -- 
+4) Code -- done
+5) PPT -- 
+6) Web Application --
+
+Topics:
+1) Decision Tree
+2) Ensemble Model
+3) Bagging Boosting
+4) Code Working
+5) Accuracy of Model
+6) Drawback of Algorithm 
